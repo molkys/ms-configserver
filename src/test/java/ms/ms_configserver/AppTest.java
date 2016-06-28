@@ -1,4 +1,4 @@
-package fcvc.fcvc_configserver;
+package ms.ms_configserver;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
