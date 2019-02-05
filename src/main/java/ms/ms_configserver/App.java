@@ -13,4 +13,6 @@ public class App
         SpringApplication.run(App.class,args);
         System.out.println( "Configuration Server started up!" );
     }
+    
+    
 }
